@@ -1,0 +1,7 @@
+what is the version control you are using
+What are the advantages of git over svn
+what is a tag and how many types and hw do you create
+give some git commands
+git architture
+what are merge conflicts
+diff between fork and clone 
